@@ -2,9 +2,8 @@
 ### Eae 👋
 
 ![Estatisticas do Github](https://github-readme-stats.vercel.app/api?username=yanpgabriel&show_icons=true&locale=pt-Br)
-![Streak Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yanpgabriel&locale=pt)
-
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=yanpgabriel&show_icons=true&locale=pt-Br)
+![Streak Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yanpgabriel&locale=pt)
 
 ---
 <h3 align="left">Entre em contato:</h3>
