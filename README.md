@@ -1,14 +1,16 @@
 
 ### Eae 👋
-![Estatisticas do Github](https://github-readme-stats.vercel.app/api?username=yanpgabriel&show_icons=true&locale=pt-Br)
-![Streak Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yanpgabriel&locale=pt)
+![Estatisticas do Github](https://github-readme-stats.vercel.app/api?username=yanpgabriel&show_icons=true&theme=chartreuse-dark&locale=pt-Br)
+![Streak Contributions](https://github-readme-streak-stats.herokuapp.com?user=yanpgabriel&theme=chartreuse-dark&hide_border=true&locale=pt)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=yanpgabriel&show_icons=true&locale=pt-Br)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=yanpgabriel&show_icons=true&theme=chartreuse-dark&locale=pt-Br)
 
 ---
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
-<a href="https://yanpgabriel.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.yanpgabriel" height="30" width="40" /></a>
+<a href="https://yanpgabriel.dev" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.yanpgabriel" height="30" width="40" />
+  </a>
 </p>
 
 ---
